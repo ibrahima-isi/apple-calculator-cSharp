@@ -1,0 +1,10 @@
+J:\My Drive\L3GL_ISI\C sharp\Calculatrice\Calculator\Calculator\bin\Debug\Calculator.exe.config
+J:\My Drive\L3GL_ISI\C sharp\Calculatrice\Calculator\Calculator\bin\Debug\Calculator.exe
+J:\My Drive\L3GL_ISI\C sharp\Calculatrice\Calculator\Calculator\bin\Debug\Calculator.pdb
+J:\My Drive\L3GL_ISI\C sharp\Calculatrice\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+J:\My Drive\L3GL_ISI\C sharp\Calculatrice\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+J:\My Drive\L3GL_ISI\C sharp\Calculatrice\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+J:\My Drive\L3GL_ISI\C sharp\Calculatrice\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+J:\My Drive\L3GL_ISI\C sharp\Calculatrice\Calculator\Calculator\obj\Debug\Calculator.exe
+J:\My Drive\L3GL_ISI\C sharp\Calculatrice\Calculator\Calculator\obj\Debug\Calculator.pdb
+J:\My Drive\L3GL_ISI\C sharp\Calculatrice\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
