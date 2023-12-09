@@ -145,6 +145,11 @@ namespace Calculator
             if(label1.Text != "0")
             {
                 label1.Text = "0";
+                number1 = 0;
+            }
+            else
+            {
+                number1 = 0;
             }
         }
 
